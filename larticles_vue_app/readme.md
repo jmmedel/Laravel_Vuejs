@@ -1,10 +1,6 @@
-# Laravel_Vuejs
-Laravel_Vuejs
-
-
 # Larticles Laravel/Vue App
 
-> Laravel 5.7 API that uses the API resources with a Vue.js frontend
+> Laravel 5.5 API that uses the API resources with a Vue.js frontend
 
 ## Quick Start
 
